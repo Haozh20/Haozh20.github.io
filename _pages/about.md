@@ -14,4 +14,7 @@ My research interests lie broadly in **Quantum Computation**, **Quantum Informat
 
 Here are my [CV](../files/CV_ZihanHao.pdf).
 
-[Email](mailto:haozh02@hotmail.com) / [Github](https://github.com/Haozh02) 
+----
+<br/>
+<p style='text-align: right;'> Latest update in Dec. 2023 </p>
+

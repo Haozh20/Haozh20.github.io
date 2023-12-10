@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihan Hao's Homepage'"
+title                    : "Zihan Hao"
 title_separator          : "-"
 name                     : &name "Zihan Hao"
 description              : &description "personal description"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Zihan Hao"
-  avatar           : "profile.png"
-  bio              : "Carpe Diem"
-  location         : "Tsinghua University, Beijing, China"
+  avatar           : "images/personal_picture/2022_summer_road.png"
+  bio              : "Carpe Diem!"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : # not yet
   email            :  
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # not yet
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-7381-6280"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
