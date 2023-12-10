@@ -12,6 +12,6 @@ Hello! I am Zihan Hao (郝梓涵), a senior-year undergraduate student majoring 
 
 My research interests lie broadly in **Quantum Computation**, **Quantum Information**, and **Theoretical Computer Science**. I delve deeper into the disciplinary of Quantum Computation and Cryptography. I have worked on both Quantum and Cryptography, with topics centered around Quantum Randomized Measurements and Laconic Function Evaluation(LFE) respectively.
 
-Here are my [CV](../assets/CV_ZihanHao.pdf).
+Here are my [CV](../files/CV_ZihanHao.pdf).
 
 [Email](mailto:haozh02@hotmail.com) / [Github](https://github.com/Haozh02) 
