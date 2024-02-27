@@ -15,7 +15,7 @@ Hello! I am Zihan Hao (郝梓涵), a senior-year undergraduate student majoring 
 
 <!-- visa -->
 <!-- Here is my [CV](../files/CV_ZihanHao.pdf). -->
-Here is my [CV](../files/CV_B1_visa.pdf).
+Here is my [CV](../files/CV_Feb.pdf).
 
 ----
 <br/>
